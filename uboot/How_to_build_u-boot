@@ -1,0 +1,20 @@
+////////////////////////////////////////////////////////////////////////////
+//
+//           How to Build U-boot for SEP0611
+//
+//                      Author:John Zhang<xtayyt@gmail.com.cn>
+//
+////////////////////////////////////////////////////////////////////////////
+ 
+1.  tar xvf uboot.tar.bz2 
+        
+    then open the folder
+
+2.  run DoforSEP0611.sh using command
+
+    ./DoforSEP0611.sh 
+
+    this file can help you config and make
+
+3.  wait until down. And then, you can find the u-boot.bin
+
